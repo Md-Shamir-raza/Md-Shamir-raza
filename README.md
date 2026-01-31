@@ -44,8 +44,20 @@
 
 ## 🏆 Highlight Project
 
+### 🤖 Pneumonia Detection System
+Deep learning model to detect pneumonia from chest X-rays using a web interface.
+
+**Tech Stack:** TensorFlow • React • Flask • Python  
+
+🔗 [View Repository](https://github.com/Md-Shamir-raza/Pneumonia-detection-UI)
+
+
 ### 📌 Daily DSA Practice
-Solving 2 problems daily with explanations, complexity analysis & learning notes.
+Consistently solving 2 problems daily to strengthen DSA fundamentals.  
+Includes solutions, explanations, and complexity analysis.
+
+🔗 [View Repository](https://github.com/Md-Shamir-raza/MY-Daily-DSA-Practice_)
+
 
 ---
 
