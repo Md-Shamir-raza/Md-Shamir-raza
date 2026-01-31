@@ -73,9 +73,14 @@ Includes solutions, explanations, and complexity analysis.
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/md-shamir-raza-quraishi"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:shamirraza559@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="mailto:shamirraza559@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://linkedin.com/in/md-shamir-raza-quraishi" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
 </p>
+
 
 ---
 
