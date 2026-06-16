@@ -42,7 +42,15 @@
 
 ---
 
-## 🏆 Highlight Project
+## 🏆 Highlight Projects
+
+### 🌍 EcoSphere — Environmental Collaboration Platform
+A full-stack multi-stakeholder platform uniting governments, researchers, NGOs, and citizens for data-driven environmental action. Features 4 role-based dashboards, AI-powered proposal evaluation using LangGraph multi-agent pipelines, GPS-verified volunteer attendance, a GreenToken reward economy, and multi-language support.
+
+**Tech Stack:** Next.js 16 • React 19 • MongoDB • TypeScript • TailwindCSS • FastAPI • LangGraph • Groq LLaMA • Google Gemini • OpenAI
+
+🔗 [View Repository](https://github.com/Md-Shamir-raza/EcoSphere-Dakshh)
+
 
 ### 🤖 Pneumonia Detection System
 Deep learning model to detect pneumonia from chest X-rays using a web interface.
@@ -50,13 +58,6 @@ Deep learning model to detect pneumonia from chest X-rays using a web interface.
 **Tech Stack:** TensorFlow • React • Flask • Python  
 
 🔗 [View Repository](https://github.com/Md-Shamir-raza/Pneumonia-detection-UI)
-
-
-### 📌 Daily DSA Practice
-Consistently solving 2 problems daily to strengthen DSA fundamentals.  
-Includes solutions, explanations, and complexity analysis.
-
-🔗 [View Repository](https://github.com/Md-Shamir-raza/MY-Daily-DSA-Practice_)
 
 
 ### 🌐 Personal Portfolio Website
